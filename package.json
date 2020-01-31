@@ -1,5 +1,6 @@
 {
-	"name": "my-hyperdev-app",
+  "creator":"robert müller",
+	"name": "fcc-issue-tracker-project",
 	"version": "0.0.1",
 	"description": "What am I about?",
 	"main": "server.js",
